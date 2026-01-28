@@ -23,6 +23,7 @@ Kaggle Emotion Dataset
 
 ## Result
 Achieved high accuracy in emotion classification.
+And Hence the Logistic regression model has given the highest accuracy score using TF-Idf vectorization of 81%
 
 ## Author
 Akash Soni
